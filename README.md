@@ -20,7 +20,7 @@ monika
 8. zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
 
 
-Kinga
+Kinga 001
 1. zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.
 2. zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
 3. zmień listę w taki sposób, aby zdania zaczynały się z wielkiej litery (sama treść ćwiczenia ma się zaczynać z wielkiej litery, nie słowa `Ćwiczenie N`). (+)
