@@ -11,7 +11,7 @@ N. (*) Ćwiczenie do wykonania.
 ```
 
 cw1. zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.
-2. zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
+cw2. zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
 3. zmień listę w taki sposób, aby zdania zaczynały się z wielkiej litery (sama treść ćwiczenia ma się zaczynać z wielkiej litery, nie słowa `Ćwiczenie N`). (+)
 4. zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).
 4. zmień punkty w taki sposób aby ich treść zamiast zaczynać się od numeru ćwiczenia `N.` zaczynała się od słów `Ćwiczenie N.`. (+)
