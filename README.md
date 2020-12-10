@@ -19,6 +19,7 @@ monikaa
 7. dodaj słowa `Ćwiczenia do wykonania` przed listą ćwiczeń.
 8. zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
 
+dodaje zmiany
 
 Kinga 001
 1. zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.
