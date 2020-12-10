@@ -20,3 +20,4 @@ N. (*) Ćwiczenie do wykonania.
 8. zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
 
 Coś zmieniam
+djdkdsks
